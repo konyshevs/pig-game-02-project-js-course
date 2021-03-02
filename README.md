@@ -7,7 +7,7 @@ If the player rolls any other number, it is added to their turn total and the pl
 If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn.
 The first player to score 100 or more points wins.
 
-https://pig-game-ks.netlify.app
+Project URL: https://pig-game-ks.netlify.app
 
 Project № 2 of course "The Complete JavaScript Course 2021: From Zero to Expert!" by Jonas Schmedtmann
 https://www.udemy.com/course/the-complete-javascript-course/
